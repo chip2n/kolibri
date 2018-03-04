@@ -1,10 +1,9 @@
-# IntelliJ stuff
-.idea
 *.iml
-
-# Gradle stuff
 .gradle
-
-# Build stuff
-build
-out
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild

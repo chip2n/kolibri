@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kolibri</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_counter">Counter</string>
+    <string name="title_activity_chat">Chat</string>
+
+    <string name="chat_input_hint">Say something</string>
+    <string name="chat_typing_indicator">%s is typing…</string>
+</resources>
